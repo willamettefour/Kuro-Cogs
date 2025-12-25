@@ -66,6 +66,7 @@ class Translate(kuroutils.Cog):
         - `--translator`: The translator to use. Automatically chosen if not provided.
 
         Translators:
+        - `bing`: Bing
         - `deepl`: DeepL
         - `google`: Google
         - `libre`: Libre
